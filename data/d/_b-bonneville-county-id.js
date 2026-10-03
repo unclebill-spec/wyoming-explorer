@@ -1,0 +1,1 @@
+KYXD("_b-bonneville-county-id",{"school":{"bid-s160312000541":{"addr":"3389 Highway 26","phone":"(208) 483-2405","grades":"PK–08","level":"Elementary","nces":"160312000541","levels":{},"bst":"ID","bmi":12.5,"bco":"Bonneville County, ID","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});

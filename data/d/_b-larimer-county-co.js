@@ -1,0 +1,1 @@
+KYXD("_b-larimer-county-co",{"school":{"bco-s080399006776":{"addr":"505 N County Road 73C","phone":"(970) 488-6550","grades":"PK–05","level":"Elementary","nces":"080399006776","levels":{},"bst":"CO","bmi":13.6,"bco":"Larimer County, CO","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});

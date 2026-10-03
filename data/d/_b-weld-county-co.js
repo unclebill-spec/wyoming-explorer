@@ -1,0 +1,1 @@
+KYXD("_b-weld-county-co",{"school":{"bco-s080444000653":{"addr":"19 Chatoga","phone":"(970) 895-2222","grades":"PK–12","level":"Other","nces":"080444000653","levels":{},"bst":"CO","bmi":9.2,"bco":"Weld County, CO","src":"NCES Common Core of Data 2024-2025 (school directory; no state grade on this map)"}}});
