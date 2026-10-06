@@ -2,6 +2,7 @@
 
 Newest first. Times are ET.
 ## 2026-10-05
+- 23:10 ET: Add North Carolina to the state switcher (new North Carolina Explorer); shared Anna code: per-state wording + estimated-pay labels
 - 21:06 ET: Permanent RN jobs: cardiac cath lab postings are now hidden like the other cath lab jobs. 2 jobs (Banner Wyoming Medical Center) were filed under step-down because the word 'cardiac' matched before 'cath'; any job whose title or unit names the cath lab is now Cath lab / IR. Cath recovery, cath-lab step-down and holding jobs stay in.
 
 ## 2026-10-04
