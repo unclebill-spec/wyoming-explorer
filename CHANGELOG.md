@@ -1,6 +1,9 @@
 # Wyoming Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-10
+- 02:48 ET: Listings refresh r2: +11 new, -7 sold/off-market, 4 price drops, 4 price changes; bigland/cavefalls/perm refreshed (r2-2026-10-10)
+
 ## 2026-10-08
 - 00:19 ET: New right-side 'Hospitals' filter button: shows every hospital on the map, including hospitals within ~15 mi over the state line, with the icons they already have. While it is on, hospitals are drawn larger and on top, every trauma center sits above every other hospital (single pins and groups), and other pins shrink underneath. Hidden in Anna mode. Shared app code, same on every map.
 
