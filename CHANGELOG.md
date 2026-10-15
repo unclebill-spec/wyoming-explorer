@@ -1,6 +1,9 @@
 # Wyoming Explorer — change log
 
 Newest first. Times are ET.
+## 2026-10-15
+- 02:40 ET: Listings refresh r6: +0 new, -0 sold/off-market, 0 price drops, 0 price changes; bigland/cavefalls/perm refreshed (r6-2026-10-15)
+
 ## 2026-10-14
 - 02:00 ET: Listings refresh r5: +4 new, -2 sold/off-market, 4 price drops, 4 price changes; bigland/cavefalls/perm refreshed (r5-2026-10-13)
 
