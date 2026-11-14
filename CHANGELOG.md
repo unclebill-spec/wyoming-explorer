@@ -1,6 +1,9 @@
 # Wyoming Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-14
+- 02:58 ET: Add Houses (no-land homes) and Towns (townhomes/apartments/condos) layers data
+
 ## 2026-11-12
 - 06:18 ET: Listings refresh r23: +0 new, -2 sold/off-market, 1 price drops, 2 price changes; bigland/cavefalls/perm refreshed (r23-2026-11-12)
 
