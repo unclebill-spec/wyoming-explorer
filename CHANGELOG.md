@@ -1,6 +1,9 @@
 # Wyoming Explorer — change log
 
 Newest first. Times are ET.
+## 2026-11-16
+- 11:22 ET: State switcher: add Nebraska, South Dakota, North Dakota
+
 ## 2026-11-14
 - 14:49 ET: Listings refresh r24: +0 new, -0 sold/off-market, 3 price drops, 4 price changes; bigland/cavefalls/perm refreshed (r24-2026-11-14)
 - 02:58 ET: Add Houses (no-land homes) and Towns (townhomes/apartments/condos) layers data
